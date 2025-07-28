@@ -1,0 +1,12 @@
+.customer-layout {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.customer-content {
+  flex: 1;
+  padding: 2rem;
+  background: #f7f9fc;
+  overflow-y: auto;
+}
